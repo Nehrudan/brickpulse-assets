@@ -1,0 +1,20 @@
+{
+  "name": "BrickPulse",
+  "symbol": "BPLS",
+  "description": "BrickPulse ist ein futuristischer Energiekristall-Token mit einem vertikalen Neonpuls im Inneren. Entwickelt als spielerischer Wertträger für Minigames, Community-Projekte und kreative Anwendungen.",
+  "image": "https://raw.githubusercontent.com/DEINNAME/brickpulse-assets/main/brickpulse-icon.png",
+  "extensions": {
+    "website": "",
+    "discord": "",
+    "twitter": ""
+  },
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "brickpulse-icon.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
